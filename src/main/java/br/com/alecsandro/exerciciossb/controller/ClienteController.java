@@ -1,6 +1,6 @@
 package br.com.alecsandro.exerciciossb.controller;
 
-import br.com.alecsandro.exerciciossb.model.Cliente;
+import br.com.alecsandro.exerciciossb.model.entity.Cliente;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

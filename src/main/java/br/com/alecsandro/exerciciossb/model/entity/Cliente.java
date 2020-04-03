@@ -1,4 +1,4 @@
-package br.com.alecsandro.exerciciossb.model;
+package br.com.alecsandro.exerciciossb.model.entity;
 
 public class Cliente {
 
